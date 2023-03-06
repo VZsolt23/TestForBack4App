@@ -1,5 +1,7 @@
 FROM openjdk:17-jdk-alpine3.14
 
-COPY "./target/fantasywarriors.jar" "/application/fantasywarriors.jar"
+WORKDIR application
 
-CMD ["java", "-jar", "/application/fantasywarriors.jar"]
+COPY "./target/fantasywarriors-0.0.1-SNAPSHOT.jar.jar" "./"
+
+CMD ["java", "-jar", "fantasywarriors-0.0.1-SNAPSHOT.jar.jar"]
