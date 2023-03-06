@@ -1,0 +1,11 @@
+dev\thegamecity\fantasywarriors\model\Player.class
+dev\thegamecity\fantasywarriors\player\PlayerRepository.class
+dev\thegamecity\fantasywarriors\user\UserRepository.class
+dev\thegamecity\fantasywarriors\model\User.class
+dev\thegamecity\fantasywarriors\player\PlayerService.class
+dev\thegamecity\fantasywarriors\player\PlayerController.class
+dev\thegamecity\fantasywarriors\CharacterClass.class
+dev\thegamecity\fantasywarriors\user\UserService.class
+dev\thegamecity\fantasywarriors\FantasyWarriorsApplication.class
+dev\thegamecity\fantasywarriors\user\UserController.class
+dev\thegamecity\fantasywarriors\PasswordEncoder.class
